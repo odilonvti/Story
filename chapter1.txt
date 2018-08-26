@@ -1,0 +1,1 @@
+testando escrever um texto dentro do terminal
